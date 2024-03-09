@@ -34,6 +34,17 @@ This repository provides multiple UIs for you to play around with stable diffusi
 | -------------------------------------------------------------------------------- |
 | ![](https://github.com/comfyanonymous/ComfyUI/raw/master/comfyui_screenshot.png) |
 
+### [Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
+
+[Features not included in AUTOMATIC1111 listed here](https://github.com/lllyasviel/stable-diffusion-webui-forge?tab=readme-ov-file#new-features-that-are-not-available-in-original-webui), Screenshots:
+
+| Workflow                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| ![image](https://github.com/lllyasviel/stable-diffusion-webui-forge/assets/19834515/ca5e05ed-bd86-4ced-8662-f41034648e8c) |
+| ![image](https://github.com/lllyasviel/stable-diffusion-webui-forge/assets/19834515/3629ee36-4a99-4d9b-b371-12efb260a283) |
+| ![image](https://github.com/lllyasviel/stable-diffusion-webui-forge/assets/19834515/6d13ebb7-c30d-4aa8-9242-c0b5a1af8c95) |
+| ![image](https://github.com/lllyasviel/stable-diffusion-webui-forge/assets/19834515/c4f723c3-6ea7-4539-980b-0708ed2a69aa) |
+
 ## Contributing
 
 Contributions are welcome! **Create a discussion first of what the problem is and what you want to contribute (before you implement anything)**
@@ -51,6 +62,7 @@ Special thanks to everyone behind these awesome projects, without them, none of 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI)
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+- [Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
 - [Sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
 - and many many more.
